@@ -1,7 +1,7 @@
 # StudyPlanner
 Mi primer projecto "Vibe coded" (Spec driven development + AI), implementando un generador de Mallas Curriculares universitarias.
 
-![[SPmain.gif]]
+![[assets/demo_gifs/SPmain.gif]]
 
 ##### WARNING: Este proyecto fue desarrollado con Inteligencia Artificial, y con el lenguaje de programación C, es decir, una receta para el desastre. Si quieres proteger tu preciada RAM, recomiendo encarecidamente que ejecutes esto en una Maquina Virtual. Si decides lo contrario, debe ser bajo tu propio riesgo.
 
